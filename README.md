@@ -25,4 +25,5 @@ A spatial imagery management project developed during the Esri MOOC program ("Th
 
 ## Author
 Khadijah Assaggaf — GIS Specialist
+
 The ArcGIS Imagery MOOC: Foundations and Frontiers - Esri
