@@ -19,9 +19,10 @@ A spatial imagery management project developed during the Esri MOOC program ("Th
 - High-Resolution Spatial Imagery Composite
 
 ### Project Preview
-![Jezero Crater Mosaic Preview]
+[Jezero Crater Mosaic Preview]
 <img width="3600" height="5400" alt="Mosaic dataset of Jezero Crater" src="https://github.com/user-attachments/assets/c083c2ee-a9dd-49a4-b6df-04efdde11ad1" />
 
 
 ## Author
-Khadijah Assaggaf — GIS Specialist The ArcGIS Imagery MOOC: Foundations and Frontiers - Esri
+Khadijah Assaggaf — GIS Specialist
+The ArcGIS Imagery MOOC: Foundations and Frontiers - Esri
