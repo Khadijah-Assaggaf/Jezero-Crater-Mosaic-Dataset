@@ -4,7 +4,7 @@ Mosaic dataset management of high-resolution imagery for Jezero Crater on Mars
 # Mosaic Dataset Management of Jezero Crater (Mars)
 
 ## Overview
-A spatial imagery management project developed during the Esri MOOC program ("The ArcGIS Imagery MOOC: Foundations and Frontiers"). The project focuses on structuring and managing high-resolution satellite imagery overlaying Jezero Crater on Mars using Mosaic Datasets in ArcGIS Pro.
+The project focuses on structuring and managing high-resolution satellite imagery overlaying Jezero Crater on Mars using Mosaic Datasets in ArcGIS Pro.
 
 ## Features & Capabilities
 - **Mosaic Dataset Creation:** Built and configured a Mosaic Dataset to manage multiple overlapping planetary imagery datasets seamlessly.
